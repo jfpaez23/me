@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Me",
+				"MediaCombustible"
+			],
+			[
+				"Medi",
+				"MediaCombustible"
+			],
+			[
+				"Media",
+				"MediaDuracion"
+			],
+			[
+				"dim",
+				"dimBlock"
+			],
+			[
+				"cuda",
+				"cudaMencpyHostToDevice"
+			],
+			[
+				"cudaM",
+				"cudaMencpy"
+			],
+			[
+				"pre",
+				"precondition	:precondition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 16435,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"git c",
+				"Git: Diff Current File"
+			],
+			[
+				"git: c",
+				"Git: Commit"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Javi/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Javi/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/D/Javi/Projects/me/index.html",
+		"/C/Users/Javi/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/Javi/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/D/Entertainment/Movies/Marvel movies/ChronologicalViewingOrder.txt",
+		"/C/Users/Javi/Desktop/BackupDiarioAsesor.bat",
+		"/C/Users/Javi/AppData/Local/Temp/calibre_znqajm/ybcyig_view_device_book.txt",
+		"/C/Users/Javi/Desktop/foo.txt",
+		"/C/Users/Javi/Links/Nuevo documento de texto.txt",
+		"/C/Users/Javi/Desktop/LTL/sra_custom_1.txt",
+		"/D/Dropbox/Universidad/Master/TFM/SPIN/pc_spin645/hello.pml",
+		"/D/Dropbox/Universidad/Master/TFM/SPIN/pc_spin645/leader.pml",
+		"/D/Dropbox/Universidad/Master/TFM/SPIN/pc_spin645/wordcount.pml",
+		"/D/Javi/Downloads/AcaciaPlus-v2.3/README",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/Resultados - Comparativa/2.OpenMP/result-big-sims",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/Resultados - Comparativa/3.CUDA/result-big-sims",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica3 - CUDA/nbody/apps/nbodyrnd.cpp",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica3 - CUDA/nbody/sim/result-sims",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica3 - CUDA/nbody/src/bodiessoa.cu",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/Resultados - Comparativa/1.MPI/result-big-sims",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica3 - CUDA/nbody/src/bodiessoa.cpp",
+		"/C/Users/Javi/Documents/MobaXterm/slash/RemoteFiles/394190_2_0/results",
+		"/C/Users/Javi/Documents/MobaXterm/slash/RemoteFiles/394190_2_3/results-big",
+		"/C/Users/Javi/Documents/MobaXterm/slash/RemoteFiles/394190_2_1/results-big",
+		"/C/Users/Javi/Documents/MobaXterm/slash/RemoteFiles/394190_2_2/results",
+		"/D/eBooks/Biblioteca_32006_EPUB_ESP/lista_autor.html",
+		"/D/eBooks/Biblioteca_32006_EPUB_ESP/lista_paginas.html",
+		"/C/Users/Javi/Desktop/lista_paginas.html",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/R/modeloC.SimulacionScriptR.R",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/R/modeloB.SimulacionScriptR.R",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/R/modeloA.SimulacionScriptR.R",
+		"/C/Users/Javi/Desktop/Modelo A/modeloA.SimulacionScriptR.R",
+		"/C/Users/Javi/Desktop/Modelo A/TestScriptR.R",
+		"/C/Users/Javi/Desktop/Modelo C/modeloC.SimulacionScriptR.R",
+		"/C/Users/Javi/Desktop/Modelo B/modeloB.SimulacionScriptR.R",
+		"/D/Javi/Downloads/TestScriptR.R",
+		"/D/Javi/Downloads/SimulacionScriptR.R",
+		"/C/Users/Javi/Desktop/Modelo A/SimulacionScriptR.R",
+		"/D/Javi/Downloads/process_sims.R",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/R/scriptR.R",
+		"/D/Javi/Downloads/test_sims.R",
+		"/C/Users/Javi/Desktop/Modelo A/simular.bat",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica3/nbody/src/bodiessoa.cpp",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica2/nbody/src/bodiessoa.cpp",
+		"/C/Users/Javi/Desktop/Modelo C/modeloC.flow.xml",
+		"/C/Users/Javi/Desktop/Modelo A/ModeloA.Simulaciones/modeloA30.output.xml",
+		"/C/Users/Javi/Desktop/Modelo C/simular.bat",
+		"/C/Users/Javi/Desktop/Modelo C/modeloC.flow50.xml",
+		"/C/Users/Javi/Desktop/Modelo B/simular.bat",
+		"/C/Users/Javi/Desktop/Modelo B/modeloB.flow50.xml",
+		"/C/Users/Javi/Desktop/Modelo A/modeloA.flow50.xml",
+		"/C/Users/Javi/Desktop/Modelo A/modeloA.flow.xml",
+		"/C/Users/Javi/Desktop/Modelo B/modeloB.flow.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.flow.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/simular.bat",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.flow200.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.flow50.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/simular.bat",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.flow200.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.flow50.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/simular.bat",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.flow200.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.flow50.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.flow.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.flow100.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.sumo.cfg",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.netc.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.con.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.edg.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.typ.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo C/modeloC.nod.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.netc.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.flow.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.con.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.edg.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.typ.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.nod.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo B/modeloB.sumo.cfg",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.netc.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.con.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.edg.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.typ.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.nod.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/modeloA.sumo.cfg",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/cruce.con.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/Modelo A/cruce.sumo.cfg",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.netc.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.output.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.flow.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.con.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.edg.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.typ.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/MyS/Practica 4/SUMO/cruce.nod.xml",
+		"/D/Dropbox/Universidad/Master/3er Cuatrimestre/HPC/practica1/nbody/src/bodiessoa.cpp",
+		"/C/Users/Javi/Desktop/move/Move.java",
+		"/C/Users/Javi/Desktop/bot/Bot.java",
+		"/C/Users/Javi/Desktop/main/Map.java",
+		"/C/Users/Javi/AppData/Local/Temp/Rar$DIa0.833/AttackTransferMove.java",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Agentes/BotState.java",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Agentes/BotStarter.java",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Agentes/BotParser.java",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Agentes/Bot.java",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PCorta 1/BotState.java",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PCorta 1/BotAtilaDSI.java",
+		"/D/Javi/Downloads/memoria",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Diccionaries/superregions.dic",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Ejemplos.csv",
+		"/D/Dropbox/Universidad/Master/2do Cuatrimestre/Diseño_Sistemas_Inteligentes/PFinal/Diccionaries/regions.dic",
+		"/C/Users/Javi/Desktop/web/valoraciones.html",
+		"/C/Users/Javi/Desktop/web/carta.html",
+		"/C/Users/Javi/Desktop/web/registro.html",
+		"/C/Users/Javi/Desktop/web/index.html",
+		"/C/Users/Javi/Desktop/web/css/sticky-footer-navbar.css",
+		"/C/Users/Javi/Desktop/web/css/navbar-fixed-top.css",
+		"/C/Users/Javi/Desktop/web/css/bootstrap.min.css",
+		"/C/Users/Javi/Desktop/web/css/bootstrap-theme.css",
+		"/C/Users/Javi/Desktop/web/css/bootstrap.css",
+		"/C/Users/Javi/Desktop/web/js/bootstrap.js",
+		"/C/Users/Javi/Desktop/web/js/bootstrap.min.js",
+		"/D/Dropbox/regions.dic",
+		"/C/Users/Javi/Desktop/WebScraping.java",
+		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/AsesorBD.sql",
+		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/AsesorBD_txt.sql",
+		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/AsesorBD_Cap1.sql",
+		"/C/Users/Javi/Desktop/pizza.owl",
+		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/txt.sql",
+		"/D/Dropbox/Universidad/Grado/TFG - AAC/BD_old/AsesorBD.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"g2",
+			"g1",
+			"w2",
+			"w1",
+			"r2",
+			"r1",
+			"RESULTS FOR 32 THREADS",
+			" | RAR 1",
+			"l27",
+			"l26",
+			"l25",
+			"l24",
+			"l23",
+			"l22",
+			"l21",
+			"l20",
+			"l19",
+			"l17",
+			"l16",
+			"l15",
+			"l14",
+			"l13",
+			"l12",
+			"l11",
+			"l10",
+			"l09",
+			"l08",
+			"l07",
+			"l06",
+			"l05",
+			"l04",
+			"l03",
+			"l02",
+			"Antonio",
+			"Antonio Orlando",
+			"Antonio",
+			"Antonio Orlando",
+			"MediaCombustible",
+			"MediaDuracion",
+			"MediaCombustible",
+			"MediaDuracion",
+			"MediaCombustible",
+			"MediaDuracion",
+			"MediaFuel",
+			"dir",
+			"exp",
+			"num",
+			"fich",
+			"numSims",
+			"ModeloB",
+			"ModeloA",
+			"isRecommendedWith",
+			"OliveTopping",
+			"BlackOlive",
+			"Olive",
+			"isRecommendedFor",
+			"hasCountry",
+			"Country",
+			"Drink",
+			"AppleJuice",
+			"Biamniotic",
+			"Biamniotic twin pregnancy",
+			"Biamniotic",
+			"biamniotic twin pregnancy",
+			"_",
+			"c",
+			"sticker",
+			"c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"component2",
+			"component1",
+			"subsystem2",
+			"subsystem1",
+			"system2",
+			"system1",
+			"",
+			"modeloCMediaCombustible",
+			"modeloCMediaDuracion",
+			"modeloBMediaCombustible",
+			"modeloBMediaDuracion",
+			"modeloAMediaCombustible",
+			"modeloAMediaDuracion",
+			"MediaCombustible",
+			"carpeta",
+			"n",
+			"totalsims",
+			"fichero",
+			"num",
+			"ModeloC",
+			"ModeloB",
+			"isRecommendedWith",
+			"not",
+			"x",
+			"stick-at",
+			"s"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 16435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4215,
+								4215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true
+}
