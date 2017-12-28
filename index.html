@@ -21,12 +21,94 @@
    <link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/media-queries.css">
    <link rel="stylesheet" href="css/magnific-popup.css">
+   <link rel="stylesheet" media="all" href="css/jVectorMap/jquery-jvectormap.css">
 
    <!-- Script
    ================================================== -->
    <script src="js/modernizr.js"></script>
    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
    <script type="text/javascript" src="js/jquery.ajax-cross-origin.min.js"></script>
+  <!-- <script src="js/jVectorMap/jquery-1.8.2.js"></script>
+  <script src="js/jVectorMap/jquery-jvectormap.js"></script>
+  <script src="js/jVectorMap/jquery-mousewheel.js"></script>
+
+  <script src="js/jVectorMap/src/jvectormap.js"></script>
+
+  <script src="js/jVectorMap/src/abstract-element.js"></script>
+  <script src="js/jVectorMap/src/abstract-canvas-element.js"></script>
+  <script src="js/jVectorMap/src/abstract-shape-element.js"></script>
+
+  <script src="js/jVectorMap/src/svg-element.js"></script>
+  <script src="js/jVectorMap/src/svg-group-element.js"></script>
+  <script src="js/jVectorMap/src/svg-canvas-element.js"></script>
+  <script src="js/jVectorMap/src/svg-shape-element.js"></script>
+  <script src="js/jVectorMap/src/svg-path-element.js"></script>
+  <script src="js/jVectorMap/src/svg-circle-element.js"></script>
+  <script src="js/jVectorMap/src/svg-image-element.js"></script>
+  <script src="js/jVectorMap/src/svg-text-element.js"></script>
+
+  <script src="js/jVectorMap/src/vml-element.js"></script>
+  <script src="js/jVectorMap/src/vml-group-element.js"></script>
+  <script src="js/jVectorMap/src/vml-canvas-element.js"></script>
+  <script src="js/jVectorMap/src/vml-shape-element.js"></script>
+  <script src="js/jVectorMap/src/vml-path-element.js"></script>
+  <script src="js/jVectorMap/src/vml-circle-element.js"></script>
+  <script src="js/jVectorMap/src/vml-image-element.js"></script>
+
+  <script src="js/jVectorMap/src/map-object.js"></script>
+  <script src="js/jVectorMap/src/region.js"></script>
+  <script src="js/jVectorMap/src/marker.js"></script>
+
+  <script src="js/jVectorMap/src/vector-canvas.js"></script>
+  <script src="js/jVectorMap/src/simple-scale.js"></script>
+  <script src="js/jVectorMap/src/ordinal-scale.js"></script>
+  <script src="js/jVectorMap/src/numeric-scale.js"></script>
+  <script src="js/jVectorMap/src/color-scale.js"></script>
+  <script src="js/jVectorMap/src/legend.js"></script>
+  <script src="js/jVectorMap/src/data-series.js"></script>
+  <script src="js/jVectorMap/src/proj.js"></script>
+  <script src="js/jVectorMap/src/map.js"></script>
+
+  <script src="js/jVectorMap/jquery-jvectormap-world-mill-en.js"></script>
+
+   <script>
+    jQuery(function(){
+      jQuery.noConflict();
+      $('#world-map').vectorMap({
+        map: 'world_mill_en',
+        series: {
+          regions: [{
+            scale: {
+              red: '#CD6155',
+              green: '#82E0AA'
+            },
+            attribute: 'fill',
+            values: {
+              "US": 'red',
+              "VE": 'red',
+              "BR": 'red',
+              "ES": 'red',
+              "PT": 'red',
+              "FR": 'red',
+              "GB": 'red',
+              "IE": 'red',
+              "IT": 'red',
+              "HR": 'red',
+              "DK": 'red',
+              "SE": 'red',
+              "FI": 'red',
+              "EE": 'red',
+              "BA": 'red',
+              "ME": 'red',
+              "AT": 'red',
+              "NL": 'red',
+              "KR": 'red'
+            }
+          }]
+        }
+      });
+    });
+  </script> -->
 
    <!-- Favicons
    ================================================== -->
@@ -354,8 +436,47 @@
          </div><!-- item end -->
 
       </div> <!-- main-col end -->
-   </div> <!-- End Education -->
+   </div> <!-- End Certification -->
 
+
+    <!-- Languages -->
+       <div class="row languages" >
+
+          <div class="three columns header-col">
+             <h1><span>Languages</span></h1>
+          </div>
+
+          <div class="nine columns main-col">
+
+             <div class="row item">
+
+                <div class="twelve columns">
+
+                   <h3>English</h3>
+                   <p class="info">
+                      Proffesional Level
+                   </p>
+
+                </div>
+
+             </div><!-- item end -->
+             <hr />
+
+             <div class="row item">
+
+                <div class="twelve columns">
+
+                   <h3>Spanish</h3>
+                   <p class="info">
+                      Native Level
+                   </p>
+
+                </div>
+
+             </div><!-- item end -->
+
+          </div> <!-- main-col end -->
+       </div> <!-- End Languages -->
 
    <!-- Skills -->
    <div class="row skill">
@@ -394,6 +515,23 @@
    </div> <!-- End skills -->
 
    </section> <!-- Resume Section End-->
+
+   <!-- Fun Section
+   ================================================== -->
+   <section id="about">
+
+      <div class="row">
+
+         <div class="twelve columns main-col">
+
+            <h2>Fun</h2>
+
+            <div id="world-map" style="width: 100%; height: 400px"></div>
+
+          </div> <!-- end .main-col -->
+
+       </div>
+    </section> <!-- Fun Section End-->
 
    <!-- footer
    ================================================== -->

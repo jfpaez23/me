@@ -39,7 +39,47 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 16435,
+				"buffer_size": 20846,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/layout.css",
+			"settings":
+			{
+				"buffer_size": 21979,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/fonts.css",
+			"settings":
+			{
+				"buffer_size": 7746,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Javi/Projects/jVectorMap/tests/markers.html",
+			"settings":
+			{
+				"buffer_size": 10295,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Javi/Projects/jVectorMap/tests/basic.html",
+			"settings":
+			{
+				"buffer_size": 8241,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Javi/Projects/jVectorMap/tests/test.html",
+			"settings":
+			{
+				"buffer_size": 3172,
 				"line_ending": "Windows"
 			}
 		}
@@ -116,6 +156,13 @@
 	},
 	"file_history":
 	[
+		"/D/Javi/Projects/me/js/jVectorMap/jquery-jvectormap.js",
+		"/D/Javi/Projects/me/js/jVectorMap/jquery-1.8.2.js",
+		"/D/Javi/Projects/me/js/jVectorMap/jquery-jvectormap-world-mill-en.js",
+		"/D/Javi/Projects/jVectorMap/test.html",
+		"/D/Javi/Projects/jVectorMap/jquery-jvectormap-world-mill-en.js",
+		"/D/Javi/Projects/jVectorMap/tests/assets/us/jquery-jvectormap-data-us-ak-lcc-en.js",
+		"/D/Javi/Projects/jVectorMap/jquery-jvectormap.css",
 		"/C/Users/Javi/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/Javi/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
 		"/D/Javi/Projects/me/index.html",
@@ -236,14 +283,7 @@
 		"/C/Users/Javi/Desktop/web/css/bootstrap.css",
 		"/C/Users/Javi/Desktop/web/js/bootstrap.js",
 		"/C/Users/Javi/Desktop/web/js/bootstrap.min.js",
-		"/D/Dropbox/regions.dic",
-		"/C/Users/Javi/Desktop/WebScraping.java",
-		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/AsesorBD.sql",
-		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/AsesorBD_txt.sql",
-		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/AsesorBD_Cap1.sql",
-		"/C/Users/Javi/Desktop/pizza.owl",
-		"/D/Dropbox/Universidad/Grado/TFG - AAC/Database/txt.sql",
-		"/D/Dropbox/Universidad/Grado/TFG - AAC/BD_old/AsesorBD.sql"
+		"/D/Dropbox/regions.dic"
 	],
 	"find":
 	{
@@ -261,6 +301,13 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"red",
+			"src=",
+			"vector",
+			"Map",
+			"../",
+			"../src",
+			"resume",
 			"g2",
 			"g1",
 			"w2",
@@ -336,6 +383,10 @@
 		"regex": false,
 		"replace_history":
 		[
+			"green",
+			"type=\"text/javascript\" src=",
+			"js/jVectorMap/",
+			"js/jVectorMap/src",
 			"component2",
 			"component1",
 			"subsystem2",
@@ -372,7 +423,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -380,25 +431,165 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 16435,
+						"buffer_size": 20846,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4215,
-								4215
+								3740,
+								3740
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 3,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 972.0,
+						"translation.y": 437.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/layout.css",
+					"settings":
+					{
+						"buffer_size": 21979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5394,
+								5394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3783.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/fonts.css",
+					"settings":
+					{
+						"buffer_size": 7746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Javi/Projects/jVectorMap/tests/markers.html",
+					"settings":
+					{
+						"buffer_size": 10295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2790,
+								2790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2376.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Javi/Projects/jVectorMap/tests/basic.html",
+					"settings":
+					{
+						"buffer_size": 8241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2791,
+								2912
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Javi/Projects/jVectorMap/tests/test.html",
+					"settings":
+					{
+						"buffer_size": 3172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2787,
+								2787
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
