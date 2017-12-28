@@ -39,7 +39,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 20846,
+				"buffer_size": 20943,
 				"line_ending": "Windows"
 			}
 		},
@@ -47,7 +47,7 @@
 			"file": "css/layout.css",
 			"settings":
 			{
-				"buffer_size": 21979,
+				"buffer_size": 22991,
 				"line_ending": "Windows"
 			}
 		},
@@ -156,6 +156,7 @@
 	},
 	"file_history":
 	[
+		"/D/Javi/Downloads/index.html",
 		"/D/Javi/Projects/me/js/jVectorMap/jquery-jvectormap.js",
 		"/D/Javi/Projects/me/js/jVectorMap/jquery-1.8.2.js",
 		"/D/Javi/Projects/me/js/jVectorMap/jquery-jvectormap-world-mill-en.js",
@@ -282,8 +283,7 @@
 		"/C/Users/Javi/Desktop/web/css/bootstrap-theme.css",
 		"/C/Users/Javi/Desktop/web/css/bootstrap.css",
 		"/C/Users/Javi/Desktop/web/js/bootstrap.js",
-		"/C/Users/Javi/Desktop/web/js/bootstrap.min.js",
-		"/D/Dropbox/regions.dic"
+		"/C/Users/Javi/Desktop/web/js/bootstrap.min.js"
 	],
 	"find":
 	{
@@ -301,6 +301,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"http",
 			"red",
 			"src=",
 			"vector",
@@ -423,7 +424,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -431,15 +432,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 20846,
+						"buffer_size": 20943,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3740,
-								3740
+								551,
+								551
 							]
 						],
 						"settings":
@@ -449,7 +450,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 437.0,
+						"translation.y": 43.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -459,15 +460,15 @@
 					"file": "css/layout.css",
 					"settings":
 					{
-						"buffer_size": 21979,
+						"buffer_size": 22991,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5394,
-								5394
+								4803,
+								4809
 							]
 						],
 						"settings":
@@ -477,7 +478,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3783.0,
+						"translation.y": 2648.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -494,8 +495,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								195,
+								211
 							]
 						],
 						"settings":
@@ -589,7 +590,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 969.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
