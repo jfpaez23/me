@@ -291,6 +291,59 @@ ul#nav li.current a { color: #FFB900; }
    font: 16px/24px 'opensans-regular', sans-serif;
 }
 
+/* ------------------------------------------------------------------ */
+/* c. Fun Section
+/* ------------------------------------------------------------------ */
+
+#fun {
+   background: #2B2B2B;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#fun a, #fun a:visited  { color: #fff; }
+#fun a:hover, #fun a:focus { color: #FFB900; }
+
+#fun h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#fun h3 {
+   font: 20px/28px 'opensans-regular', sans-serif;
+   color: #fff;
+}
+#fun p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+#fun .profile-pic {
+   position: relative;
+   width: 100%;
+   max-width: 200px;
+   border-radius: 100%;
+}
+#fun .contact-details {
+
+}
+#fun .download {
+   padding-top: 0px;
+}
+#fun .main-col { padding-right: 5%; }
+#fun .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#fun .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#fun .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/

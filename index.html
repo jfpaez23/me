@@ -27,89 +27,50 @@
    ================================================== -->
    <script src="js/modernizr.js"></script>
    <script type="text/javascript" src="https://code.jquery.com/jquery-latest.min.js"></script>
-   <script type="text/javascript" src="js/jquery.ajax-cross-origin.min.js"></script>
+   <!--<script type="text/javascript" src="js/jquery.ajax-cross-origin.min.js"></script>-->
 
-  <script src="js/jVectorMap/jquery-1.8.2.js"></script>
-  <script src="js/jVectorMap/jquery-jvectormap.js"></script>
-  <script src="js/jVectorMap/jquery-mousewheel.js"></script>
+   <script src="js/jVectorMap/jquery-1.8.2.js"></script>
+   <script src="js/jVectorMap/jquery-jvectormap.js"></script>
+   <script src="js/jVectorMap/jquery-mousewheel.js"></script>
 
-  <script src="js/jVectorMap/src/jvectormap.js"></script>
+   <script src="js/jVectorMap/src/jvectormap.js"></script>
 
-  <script src="js/jVectorMap/src/abstract-element.js"></script>
-  <script src="js/jVectorMap/src/abstract-canvas-element.js"></script>
-  <script src="js/jVectorMap/src/abstract-shape-element.js"></script>
+   <script src="js/jVectorMap/src/abstract-element.js"></script>
+   <script src="js/jVectorMap/src/abstract-canvas-element.js"></script>
+   <script src="js/jVectorMap/src/abstract-shape-element.js"></script>
 
-  <script src="js/jVectorMap/src/svg-element.js"></script>
-  <script src="js/jVectorMap/src/svg-group-element.js"></script>
-  <script src="js/jVectorMap/src/svg-canvas-element.js"></script>
-  <script src="js/jVectorMap/src/svg-shape-element.js"></script>
-  <script src="js/jVectorMap/src/svg-path-element.js"></script>
-  <script src="js/jVectorMap/src/svg-circle-element.js"></script>
-  <script src="js/jVectorMap/src/svg-image-element.js"></script>
-  <script src="js/jVectorMap/src/svg-text-element.js"></script>
+   <script src="js/jVectorMap/src/svg-element.js"></script>
+   <script src="js/jVectorMap/src/svg-group-element.js"></script>
+   <script src="js/jVectorMap/src/svg-canvas-element.js"></script>
+   <script src="js/jVectorMap/src/svg-shape-element.js"></script>
+   <script src="js/jVectorMap/src/svg-path-element.js"></script>
+   <script src="js/jVectorMap/src/svg-circle-element.js"></script>
+   <script src="js/jVectorMap/src/svg-image-element.js"></script>
+   <script src="js/jVectorMap/src/svg-text-element.js"></script>
 
-  <script src="js/jVectorMap/src/vml-element.js"></script>
-  <script src="js/jVectorMap/src/vml-group-element.js"></script>
-  <script src="js/jVectorMap/src/vml-canvas-element.js"></script>
-  <script src="js/jVectorMap/src/vml-shape-element.js"></script>
-  <script src="js/jVectorMap/src/vml-path-element.js"></script>
-  <script src="js/jVectorMap/src/vml-circle-element.js"></script>
-  <script src="js/jVectorMap/src/vml-image-element.js"></script>
+   <script src="js/jVectorMap/src/vml-element.js"></script>
+   <script src="js/jVectorMap/src/vml-group-element.js"></script>
+   <script src="js/jVectorMap/src/vml-canvas-element.js"></script>
+   <script src="js/jVectorMap/src/vml-shape-element.js"></script>
+   <script src="js/jVectorMap/src/vml-path-element.js"></script>
+   <script src="js/jVectorMap/src/vml-circle-element.js"></script>
+   <script src="js/jVectorMap/src/vml-image-element.js"></script>
 
-  <script src="js/jVectorMap/src/map-object.js"></script>
-  <script src="js/jVectorMap/src/region.js"></script>
-  <script src="js/jVectorMap/src/marker.js"></script>
+   <script src="js/jVectorMap/src/map-object.js"></script>
+   <script src="js/jVectorMap/src/region.js"></script>
+   <script src="js/jVectorMap/src/marker.js"></script>
 
-  <script src="js/jVectorMap/src/vector-canvas.js"></script>
-  <script src="js/jVectorMap/src/simple-scale.js"></script>
-  <script src="js/jVectorMap/src/ordinal-scale.js"></script>
-  <script src="js/jVectorMap/src/numeric-scale.js"></script>
-  <script src="js/jVectorMap/src/color-scale.js"></script>
-  <script src="js/jVectorMap/src/legend.js"></script>
-  <script src="js/jVectorMap/src/data-series.js"></script>
-  <script src="js/jVectorMap/src/proj.js"></script>
-  <script src="js/jVectorMap/src/map.js"></script>
+   <script src="js/jVectorMap/src/vector-canvas.js"></script>
+   <script src="js/jVectorMap/src/simple-scale.js"></script>
+   <script src="js/jVectorMap/src/ordinal-scale.js"></script>
+   <script src="js/jVectorMap/src/numeric-scale.js"></script>
+   <script src="js/jVectorMap/src/color-scale.js"></script>
+   <script src="js/jVectorMap/src/legend.js"></script>
+   <script src="js/jVectorMap/src/data-series.js"></script>
+   <script src="js/jVectorMap/src/proj.js"></script>
+   <script src="js/jVectorMap/src/map.js"></script>
 
-  <script src="js/jVectorMap/jquery-jvectormap-world-mill-en.js"></script>
-
-   <script>
-    jQuery(function(){
-      jQuery.noConflict();
-      $('#world-map').vectorMap({
-        map: 'world_mill_en',
-        series: {
-          regions: [{
-            scale: {
-              red: '#CD6155',
-              green: '#82E0AA'
-            },
-            attribute: 'fill',
-            values: {
-              "US": 'red',
-              "VE": 'red',
-              "BR": 'red',
-              "ES": 'red',
-              "PT": 'red',
-              "FR": 'red',
-              "GB": 'red',
-              "IE": 'red',
-              "IT": 'red',
-              "HR": 'red',
-              "DK": 'red',
-              "SE": 'red',
-              "FI": 'red',
-              "EE": 'red',
-              "BA": 'red',
-              "ME": 'red',
-              "AT": 'red',
-              "NL": 'red',
-              "KR": 'red'
-            }
-          }]
-        }
-      });
-    });
-  </script>
+   <script src="js/jVectorMap/jquery-jvectormap-world-mill-en.js"></script>
 
    <!-- Favicons
    ================================================== -->
@@ -132,6 +93,7 @@
             <li class="current"><a class="smoothscroll" href="#home">Main page</a></li>
             <li><a class="smoothscroll" href="#about">About me</a></li>
             <li><a class="smoothscroll" href="#resume">Resume</a></li>
+            <li><a class="smoothscroll" href="#fun">Fun</a></li>
          </ul> <!-- end #nav -->
 
       </nav> <!-- end #nav-wrap -->
@@ -142,7 +104,7 @@
             <h3><span>Technical Customer Support Manager</span> at <span>The REUSE Company</span>.<br>
                <hr />
                Date of birth: <span>September 20th 1991</span>.<br>
-               Nationality: <span>Spain</span>.<br>
+               Nationality: <span>Spain, Venezuela</span>.<br>
                Currently living in: <span>Madrid, Spain</span>.<br>
                <!-- Scroll down to know more <a class="smoothscroll" href="#about">about me</a>. -->
             </h3>
@@ -455,7 +417,7 @@
 
                    <h3>English</h3>
                    <p class="info">
-                      Proffesional Level
+                      Full Professional Level
                    </p>
 
                 </div>
@@ -519,14 +481,14 @@
 
    <!-- Fun Section
    ================================================== -->
-   <section id="about">
+   <section id="fun">
 
       <div class="row">
 
          <div class="twelve columns main-col">
 
             <h2>Fun</h2>
-
+            <h3>Countries I've visited (so far):</h3>
             <div id="world-map" style="width: 100%; height: 400px"></div>
 
           </div> <!-- end .main-col -->
@@ -566,7 +528,6 @@
    <!-- Java Script
    ================================================== -->
    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
    <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
 
    <script src="js/jquery.flexslider.js"></script>
@@ -574,8 +535,45 @@
    <script src="js/jquery.fittext.js"></script>
    <script src="js/magnific-popup.js"></script>
    <script src="js/init.js"></script>
-   
    <script src="js/bing-wallpaper.js"></script>
+   <script>
+    jQuery(function(){
+      jQuery.noConflict();
+      $('#world-map').vectorMap({
+        map: 'world_mill_en',
+        series: {
+          regions: [{
+            scale: {
+              red: '#CD6155',
+              green: '#2ECC71'
+            },
+            attribute: 'fill',
+            values: {
+              "US": 'green',
+              "VE": 'green',
+              "BR": 'green',
+              "ES": 'green',
+              "PT": 'green',
+              "FR": 'green',
+              "GB": 'green',
+              "IE": 'green',
+              "IT": 'green',
+              "HR": 'green',
+              "DK": 'green',
+              "SE": 'green',
+              "FI": 'green',
+              "EE": 'green',
+              "BA": 'green',
+              "ME": 'green',
+              "AT": 'green',
+              "NL": 'green',
+              "KR": 'green'
+            }
+          }]
+        }
+      });
+    });
+   </script>
 
 </body>
 
