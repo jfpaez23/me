@@ -314,9 +314,17 @@ ul#nav li.current a { color: #FFB900; }
    font: 20px/28px 'opensans-regular', sans-serif;
    color: #fff;
 }
+#fun h3 span {
+   border-bottom: 3px solid #FFB900;
+   padding-bottom: 6px;
+}
 #fun p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #E5E7E9;
+   text-align: justify;
+}
+#fun p span{
+   font: 15px/28px 'opensans-bold', sans-serif;
 }
 #fun .profile-pic {
    position: relative;
